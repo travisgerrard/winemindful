@@ -178,6 +178,9 @@ export default function HomePage() {
             <Link href="https://apps.apple.com" className="footer__link">
               Download
             </Link>
+            <Link href="/privacy" className="footer__link">
+              Privacy Policy
+            </Link>
           </nav>
         </div>
       </footer>
